@@ -806,11 +806,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/thiago/dev/AppConsultaCEP/AppConsultaCEP/App01_ConsultarCEP/App01_ConsultarCEP.iOS/App01_ConsultarCEP.iOS.csproj",
+      "projectUniqueName": "/Users/thiago/dev/ConsultaCEPXamarin/App01_ConsultarCEP/App01_ConsultarCEP.iOS/App01_ConsultarCEP.iOS.csproj",
       "projectName": "App01_ConsultarCEP.iOS",
-      "projectPath": "/Users/thiago/dev/AppConsultaCEP/AppConsultaCEP/App01_ConsultarCEP/App01_ConsultarCEP.iOS/App01_ConsultarCEP.iOS.csproj",
+      "projectPath": "/Users/thiago/dev/ConsultaCEPXamarin/App01_ConsultarCEP/App01_ConsultarCEP.iOS/App01_ConsultarCEP.iOS.csproj",
       "packagesPath": "/Users/thiago/.nuget/packages/",
-      "outputPath": "/Users/thiago/dev/AppConsultaCEP/AppConsultaCEP/App01_ConsultarCEP/App01_ConsultarCEP.iOS/obj/",
+      "outputPath": "/Users/thiago/dev/ConsultaCEPXamarin/App01_ConsultarCEP/App01_ConsultarCEP.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -825,8 +825,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/thiago/dev/AppConsultaCEP/AppConsultaCEP/App01_ConsultarCEP/App01_ConsultarCEP/App01_ConsultarCEP.csproj": {
-              "projectPath": "/Users/thiago/dev/AppConsultaCEP/AppConsultaCEP/App01_ConsultarCEP/App01_ConsultarCEP/App01_ConsultarCEP.csproj"
+            "/Users/thiago/dev/ConsultaCEPXamarin/App01_ConsultarCEP/App01_ConsultarCEP/App01_ConsultarCEP.csproj": {
+              "projectPath": "/Users/thiago/dev/ConsultaCEPXamarin/App01_ConsultarCEP/App01_ConsultarCEP/App01_ConsultarCEP.csproj"
             }
           }
         }

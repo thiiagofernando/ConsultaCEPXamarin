@@ -1021,11 +1021,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/thiago/dev/AppConsultaCEP/AppConsultaCEP/App01_ConsultarCEP/App01_ConsultarCEP.Android/App01_ConsultarCEP.Android.csproj",
+      "projectUniqueName": "/Users/thiago/dev/ConsultaCEPXamarin/App01_ConsultarCEP/App01_ConsultarCEP.Android/App01_ConsultarCEP.Android.csproj",
       "projectName": "App01_ConsultarCEP.Android",
-      "projectPath": "/Users/thiago/dev/AppConsultaCEP/AppConsultaCEP/App01_ConsultarCEP/App01_ConsultarCEP.Android/App01_ConsultarCEP.Android.csproj",
+      "projectPath": "/Users/thiago/dev/ConsultaCEPXamarin/App01_ConsultarCEP/App01_ConsultarCEP.Android/App01_ConsultarCEP.Android.csproj",
       "packagesPath": "/Users/thiago/.nuget/packages/",
-      "outputPath": "/Users/thiago/dev/AppConsultaCEP/AppConsultaCEP/App01_ConsultarCEP/App01_ConsultarCEP.Android/obj/",
+      "outputPath": "/Users/thiago/dev/ConsultaCEPXamarin/App01_ConsultarCEP/App01_ConsultarCEP.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1040,8 +1040,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "/Users/thiago/dev/AppConsultaCEP/AppConsultaCEP/App01_ConsultarCEP/App01_ConsultarCEP/App01_ConsultarCEP.csproj": {
-              "projectPath": "/Users/thiago/dev/AppConsultaCEP/AppConsultaCEP/App01_ConsultarCEP/App01_ConsultarCEP/App01_ConsultarCEP.csproj"
+            "/Users/thiago/dev/ConsultaCEPXamarin/App01_ConsultarCEP/App01_ConsultarCEP/App01_ConsultarCEP.csproj": {
+              "projectPath": "/Users/thiago/dev/ConsultaCEPXamarin/App01_ConsultarCEP/App01_ConsultarCEP/App01_ConsultarCEP.csproj"
             }
           }
         }

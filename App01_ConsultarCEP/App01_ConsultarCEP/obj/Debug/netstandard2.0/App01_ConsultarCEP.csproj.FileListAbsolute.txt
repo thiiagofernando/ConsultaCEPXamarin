@@ -1,0 +1,11 @@
+/Users/thiago/dev/ConsultaCEPXamarin/App01_ConsultarCEP/App01_ConsultarCEP/bin/Debug/netstandard2.0/App01_ConsultarCEP.deps.json
+/Users/thiago/dev/ConsultaCEPXamarin/App01_ConsultarCEP/App01_ConsultarCEP/bin/Debug/netstandard2.0/App01_ConsultarCEP.dll
+/Users/thiago/dev/ConsultaCEPXamarin/App01_ConsultarCEP/App01_ConsultarCEP/bin/Debug/netstandard2.0/App01_ConsultarCEP.pdb
+/Users/thiago/dev/ConsultaCEPXamarin/App01_ConsultarCEP/App01_ConsultarCEP/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/thiago/dev/ConsultaCEPXamarin/App01_ConsultarCEP/App01_ConsultarCEP/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/thiago/dev/ConsultaCEPXamarin/App01_ConsultarCEP/App01_ConsultarCEP/obj/Debug/netstandard2.0/App01_ConsultarCEP.csproj.CoreCompileInputs.cache
+/Users/thiago/dev/ConsultaCEPXamarin/App01_ConsultarCEP/App01_ConsultarCEP/obj/Debug/netstandard2.0/App01_ConsultarCEP.AssemblyInfoInputs.cache
+/Users/thiago/dev/ConsultaCEPXamarin/App01_ConsultarCEP/App01_ConsultarCEP/obj/Debug/netstandard2.0/App01_ConsultarCEP.AssemblyInfo.cs
+/Users/thiago/dev/ConsultaCEPXamarin/App01_ConsultarCEP/App01_ConsultarCEP/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/thiago/dev/ConsultaCEPXamarin/App01_ConsultarCEP/App01_ConsultarCEP/obj/Debug/netstandard2.0/App01_ConsultarCEP.dll
+/Users/thiago/dev/ConsultaCEPXamarin/App01_ConsultarCEP/App01_ConsultarCEP/obj/Debug/netstandard2.0/App01_ConsultarCEP.pdb

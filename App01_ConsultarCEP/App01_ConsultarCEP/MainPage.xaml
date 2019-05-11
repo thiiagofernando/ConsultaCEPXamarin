@@ -6,7 +6,7 @@
 
     <StackLayout BackgroundColor="#FFFF" Padding="30" Spacing="10">
         <Image Source="correioslogo.png" x:Name="LOGO" Margin="50" />
-        <Entry Placeholder="Digite o seu  CEP" PlaceholderColor="#FFBF00" BackgroundColor="#FFFFFF" x:Name="CEP" Keyboard="Numeric"/>
+        <Entry Placeholder="Digite seu  CEP" PlaceholderColor="#FFBF00" BackgroundColor="#FFFFFF" x:Name="CEP" Keyboard="Numeric"/>
         <Button Text="Buscar CEP" TextColor="#FFFFFF" BackgroundColor="#00416B" x:Name="ENVIAR"/>
         <Label Text="" x:Name="RESULTADO"
            HorizontalOptions="Center"

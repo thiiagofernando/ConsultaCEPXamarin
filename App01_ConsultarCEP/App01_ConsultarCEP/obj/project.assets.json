@@ -406,11 +406,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/thiago/dev/AppConsultaCEP/AppConsultaCEP/App01_ConsultarCEP/App01_ConsultarCEP/App01_ConsultarCEP.csproj",
+      "projectUniqueName": "/Users/thiago/dev/ConsultaCEPXamarin/App01_ConsultarCEP/App01_ConsultarCEP/App01_ConsultarCEP.csproj",
       "projectName": "App01_ConsultarCEP",
-      "projectPath": "/Users/thiago/dev/AppConsultaCEP/AppConsultaCEP/App01_ConsultarCEP/App01_ConsultarCEP/App01_ConsultarCEP.csproj",
+      "projectPath": "/Users/thiago/dev/ConsultaCEPXamarin/App01_ConsultarCEP/App01_ConsultarCEP/App01_ConsultarCEP.csproj",
       "packagesPath": "/Users/thiago/.nuget/packages/",
-      "outputPath": "/Users/thiago/dev/AppConsultaCEP/AppConsultaCEP/App01_ConsultarCEP/App01_ConsultarCEP/obj/",
+      "outputPath": "/Users/thiago/dev/ConsultaCEPXamarin/App01_ConsultarCEP/App01_ConsultarCEP/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
