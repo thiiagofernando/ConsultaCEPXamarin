@@ -1,0 +1,5 @@
+MonoTouch: Could not install sigaction override, unexpected sigaction implementation.
+2019-05-08 21:48:59.341492-0400 App01_ConsultarCEP.iOS[6848:102242] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=6848
+2019-05-08 21:48:59.341820-0400 App01_ConsultarCEP.iOS[6848:102242] SecTaskCopyDebugDescription: App01_ConsultarC[6848]/0#-1 LF=0
+2019-05-08 21:49:11.176147-0400 App01_ConsultarCEP.iOS[6848:102242] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=6848
+2019-05-08 21:49:11.176474-0400 App01_ConsultarCEP.iOS[6848:102242] SecTaskCopyDebugDescription: App01_ConsultarC[6848]/0#-1 LF=0
